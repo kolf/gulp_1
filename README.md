@@ -1,4 +1,4 @@
-###目录
+###鐩綍
 - css
 	+ app.css
 - images
@@ -7,8 +7,8 @@
 - js
 + index.html
 
-###运行
+###杩愯
 - git clone https://github.com/kolf/gulp_1.git
-- cd .. //进入工程目录
+- cd .. //杩涘叆宸ョ▼鐩綍
 - npm install 
 - gulp
