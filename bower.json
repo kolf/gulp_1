@@ -1,0 +1,19 @@
+{
+  "name": "gulp_1",
+  "version": "0.0.1",
+  "description": "gulp测试项目",
+  "keywords": [
+    "gulp"
+  ],
+  "authors": [
+    "Kolf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
